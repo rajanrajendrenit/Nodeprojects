@@ -1,5 +1,5 @@
 # Introduction 
-TODO: Give a short introduction of this project.Objectives or the motivation behind this project is create simple rest api service using nodejs and Javascript. 
+TODO: Give a short introduction of this project,objectives or the motivation behind this project is create simple rest api service using nodejs and Javascript. 
 
 # Getting Started
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
