@@ -9,7 +9,7 @@ TODO: Guide users through getting your code up and running on their own system. 
 4.  Testing service Rest Client package
 
 # Setup Node Environment
-    Install lastest Nodejs by using this link https://nodejs.org/en/download/
+ 1. Download and Install lastest Node js by using this link [Click here to download nodejs](https://nodejs.org/en/download/) 
 # Install Package Depedency 
 1.	After Initalsation open new project directory in the command windows/vscode
 2.	Run  "npm init" command -> Initialize the project (create package.json file)
