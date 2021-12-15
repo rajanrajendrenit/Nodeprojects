@@ -16,7 +16,7 @@ TODO: Guide users through getting your code up and running on their own system. 
 3.	Run  "npm  i koa" command -> this used for to create API service
 4.	Run  "npm i koa-router" command -> this used for to to define a router
 5.	Run  "npm i koa-ejs -render" command -> this is used for to define render propetry
-6.	5.	Run  "npm i nodemon" command -> this is used to run the app
+6.	Run  "npm i nodemon" command -> this is used to run the app
 # Written in API service in JavaScript
 1.	Create new file app.js
 2.	Define all required package in the file
