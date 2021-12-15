@@ -1,0 +1,8 @@
+GET  http://localhost:7000/Get
+Content-Type: application/json
+
+ {
+     Name:"Rajan",
+     Age:30,
+     Dept:"SSK"
+ }
